@@ -1,9 +1,10 @@
 ---
 title: "Hello World"
-pubDate: 2024-05-07
+pubDate: 2024-05-09
 description: " Hello this is my first recommendation"
-image:
+image: "https://api.lorem.space/image/fashion?w=640&h=480&r=3027"
 tags: ["astro", "javascript"]
+layout: "../../layouts/posts.astro"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate eu scelerisque felis imperdiet proin fermentum. Neque convallis a cras semper auctor neque vitae. Faucibus et molestie ac feugiat sed. Nunc sed augue lacus viverra vitae. Scelerisque eu ultrices vitae auctor. Lobortis elementum nibh tellus molestie nunc non blandit massa enim. Tortor dignissim convallis aenean et tortor at risus viverra. Tempor commodo ullamcorper a lacus. Fringilla phasellus faucibus scelerisque eleifend. Cras adipiscing enim eu turpis. Diam vel quam elementum pulvinar etiam non quam. Sit amet risus nullam eget felis. Feugiat sed lectus vestibulum mattis. Et netus et malesuada fames ac turpis egestas. Gravida rutrum quisque non tellus orci ac auctor. Turpis egestas sed tempus urna. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vulputate eu scelerisque felis imperdiet proin fermentum. Neque convallis a cras semper auctor neque vitae. Faucibus et molestie ac feugiat sed. Nunc sed augue lacus viverra vitae. Scelerisque eu ultrices vitae auctor. Lobortis elementum nibh tellus molestie nunc non blandit massa enim. Tortor dignissim convallis aenean et tortor at risus viverra. Tempor commodo ullamcorper a lacus. Fringilla phasellus faucibus scelerisque eleifend. Cras adipiscing enim eu turpis. Diam vel quam elementum pulvinar etiam non quam. Sit amet risus nullam eget felis. Feugiat sed lectus vestibulum mattis. Et netus et malesuada fames ac turpis egestas. Gravida rutrum quisque non tellus orci ac auctor. Turpis egestas sed tempus urna. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et.
